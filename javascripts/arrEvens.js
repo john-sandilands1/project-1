@@ -15,3 +15,5 @@ let sumEvens = arrEvens => {
 };
 
 console.log(sumEvens(arrEvens));
+
+//Sum evens
