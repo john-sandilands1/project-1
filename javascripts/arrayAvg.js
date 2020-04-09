@@ -1,5 +1,5 @@
 // jshint esversion: 6
-// 3b
+
 let arrAvg = [5, 10, 6, 9];
 var sum = 0;
 for (var i = 0; i < arrAvg.length; i++) {
